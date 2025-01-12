@@ -23,3 +23,9 @@
    ```bash
    git clone https://github.com/your-username/typescript-react-task.git
    cd typescript-react-task
+2. Установите зависимости:
+   ```bash
+   npm install
+3. Запустите проект:
+   ```bash
+   npm run dev
