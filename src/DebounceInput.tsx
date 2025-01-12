@@ -15,7 +15,7 @@ function debounce(func: (...args: any[]) => void, delay: number) {
 function sendRequest(value: string) {
     console.log(`Отправка значений на сервер: ${value}`);
 }
-const debouncedRequest = debounce(sendRequest, 1000)
+const debouncedRequest = debounce(sendRequest, 300)
 
 const DebounceInput: React.FC = () => {
 
