@@ -21,8 +21,8 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/your-username/typescript-react-task.git
-   cd typescript-react-task
+   git clone https://github.com/SergeiRyzhikov/test-task-AdNetwork-Honey.git test
+   cd test
 2. Установите зависимости:
    ```bash
    npm install
